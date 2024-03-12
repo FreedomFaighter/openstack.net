@@ -77,12 +77,6 @@ docs/html/
 
 #NuGet
 *.nupkg
-/src/packages/
-/.vs
-/src/.vs/openstack.net
-/src/corelib/.vs
-/src/Samples/CSharpCodeSamples/.vs
-/src/Samples/VBCodeSamples/.vs
-/src/testing/integration/.vs
-/src/testing/unit/.vs
-/src/UpgradeLog.htm
+src/packages/
+.vs/
+src/UpgradeLog.htm
